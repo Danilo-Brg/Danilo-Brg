@@ -1,6 +1,6 @@
-<div text-align="center" >
+<!--<div text-align="center" >
     <img class="Perfil" style= width:150px border-radius:"50%" src="https://avatars.githubusercontent.com/u/117095650?v=4">
-</div> <br>
+</div> <br>-->
 
 <!--<style type="text/css">
 	div .Perfil{
