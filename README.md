@@ -22,7 +22,7 @@
   <a href="https://github.com/Danilo-Brg">
   <img width="480em" src="https://github-readme-stats.vercel.app/api?username=DaniloBrg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
-  <img width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Brg&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Brg&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## Tecnologias
@@ -34,6 +34,12 @@
 [![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=264CE4)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/)
 
+## Desafios de Projetos
+
+| Origem	| Projeto							|
+|---------------|---------------------------------------------------------------|
+|<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="50px"/>|[Contribuindo em um Projeto Open Source no GitHub](https://github.com/Danilo-Brg/dio-lab-open-source)|
+
 ---
 ## Atividades em andamento
-<a src="https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python"><img width="350px" alt="Logo do bootcamp Potencia Tech Powered iFood Ciencias de Dados com Python" src="https://hermes.dio.me/tracks/49c408ad-800d-416d-b77c-681add1be673.png"></a>
+<a src="https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python"><img width="250px" alt="Logo do bootcamp Potencia Tech Powered iFood Ciencias de Dados com Python" src="https://hermes.dio.me/tracks/49c408ad-800d-416d-b77c-681add1be673.png"></a>
